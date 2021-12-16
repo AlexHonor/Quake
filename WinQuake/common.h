@@ -24,10 +24,10 @@ typedef unsigned char 		byte;
 #define BYTE_DEFINED 1
 #endif
 
-#undef true
-#undef false
+#define true 1
+#define false 0
 
-typedef enum {false, true}	qboolean;
+typedef int	qboolean;
 
 //============================================================================
 
