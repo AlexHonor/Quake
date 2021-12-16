@@ -1,0 +1,43 @@
+# Visual Studio stuff
+QW/.vs
+WinQuake/.vs
+WinQuake/Debug
+WinQuake/Release
+WinQuake/debug_gl
+WinQuake/release_gl
+WinQuake/id1
+WinQuake/hipnotic
+WinQuake/rogue
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
