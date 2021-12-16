@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "winquake", "WinQuake.vcxproj", "{C5452FAB-183F-4E03-8319-0D457CD2D0AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		GL Debug|x86 = GL Debug|x86
+		GL Release|x86 = GL Release|x86
+		Release|x86 = Release|x86
+		Template|x86 = Template|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Debug|x86.ActiveCfg = Debug|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Debug|x86.Build.0 = Debug|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.GL Debug|x86.ActiveCfg = GL Debug|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.GL Debug|x86.Build.0 = GL Debug|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.GL Release|x86.ActiveCfg = GL Release|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.GL Release|x86.Build.0 = GL Release|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Release|x86.ActiveCfg = Release|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Release|x86.Build.0 = Release|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Template|x86.ActiveCfg = Template|Win32
+		{C5452FAB-183F-4E03-8319-0D457CD2D0AD}.Template|x86.Build.0 = Template|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E38B21-73C9-4F74-AFCF-B1EC0697CC95}
+	EndGlobalSection
+EndGlobal
