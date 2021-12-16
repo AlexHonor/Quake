@@ -270,7 +270,7 @@ void Sys_MakeCodeWriteable (unsigned long startaddr, unsigned long length)
 }
 
 
-#ifndef _M_IX86
+#ifndef _NO_ASM_
 
 void Sys_SetFPCW (void)
 {
@@ -890,4 +890,3 @@ int WINAPI WinMain (HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLin
     /* return success of application */
     return TRUE;
 }
-
